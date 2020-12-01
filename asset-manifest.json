@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ZapGiftDemo/static/css/main.44429b26.chunk.css",
+    "main.js": "/ZapGiftDemo/static/js/main.11bb9d4c.chunk.js",
+    "main.js.map": "/ZapGiftDemo/static/js/main.11bb9d4c.chunk.js.map",
+    "runtime-main.js": "/ZapGiftDemo/static/js/runtime-main.81b75637.js",
+    "runtime-main.js.map": "/ZapGiftDemo/static/js/runtime-main.81b75637.js.map",
+    "static/css/2.6d972ef2.chunk.css": "/ZapGiftDemo/static/css/2.6d972ef2.chunk.css",
+    "static/js/2.36c3552e.chunk.js": "/ZapGiftDemo/static/js/2.36c3552e.chunk.js",
+    "static/js/2.36c3552e.chunk.js.map": "/ZapGiftDemo/static/js/2.36c3552e.chunk.js.map",
+    "index.html": "/ZapGiftDemo/index.html",
+    "precache-manifest.e6e64449e08d9420fc914466c0b82d69.js": "/ZapGiftDemo/precache-manifest.e6e64449e08d9420fc914466c0b82d69.js",
+    "service-worker.js": "/ZapGiftDemo/service-worker.js",
+    "static/css/2.6d972ef2.chunk.css.map": "/ZapGiftDemo/static/css/2.6d972ef2.chunk.css.map",
+    "static/css/main.44429b26.chunk.css.map": "/ZapGiftDemo/static/css/main.44429b26.chunk.css.map",
+    "static/js/2.36c3552e.chunk.js.LICENSE.txt": "/ZapGiftDemo/static/js/2.36c3552e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81b75637.js",
+    "static/css/2.6d972ef2.chunk.css",
+    "static/js/2.36c3552e.chunk.js",
+    "static/css/main.44429b26.chunk.css",
+    "static/js/main.11bb9d4c.chunk.js"
+  ]
+}
